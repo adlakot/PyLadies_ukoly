@@ -1,2 +1,4 @@
-for x in range(5):
+radek = int(input('Zadej pocet radku: '))
+
+for x in range(radek):
     print('x'*x)
